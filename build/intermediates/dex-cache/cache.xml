@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
+        <dex dex="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/pre-dexed/prod/release/com.google.android.gms-play-services-analytics-impl-9.0.0_45a088fc008036f59fc1678b83e5f316c170aebb.jar" />
+    </item>
+    <item
+        jar="/Users/percival/Downloads/360 2016-2/game - Android Studio/libs/tween-engine-api.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8be8beb70b7ccae059d523e56670f6e44fb1821f">
+        <dex dex="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/pre-dexed/prod/release/tween-engine-api_bb5c3f52b1c246d3ead9747467060fa3717239a3.jar" />
+    </item>
+    <item
+        jar="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/pre-dexed/prod/release/com.android.support-appcompat-v7-20.0.0_3b5189611b25ac0ffffa9838182c05c2c65abb80.jar" />
+    </item>
+    <item
+        jar="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/pre-dexed/prod/release/internal_impl-23.0.0_e9e44362855405950f14510fe239ec5f81f5f5b3.jar" />
+    </item>
+    <item
+        jar="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/exploded-aar/game - Android Studio/BaseGameUtils/1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5180bf4b920b4078caddbc3fdf28152f704ea3fb">
+        <dex dex="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/pre-dexed/prod/release/game - Android Studio-BaseGameUtils-1.0_8b1a110f97e5de1633f67b11e4e4804ac89210a4.jar" />
+    </item>
+    <item
+        jar="/Users/percival/Downloads/360 2016-2/game - Android Studio/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b09c60d07cf0b16eba3ebaacaf94e5f837a34444">
+        <dex dex="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/pre-dexed/prod/release/core-1.0_88f893b06cfd568d3354d9fd7e815f1506ae1a03.jar" />
+    </item>
+    <item
+        jar="/Users/percival/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.6.4/eb089b58828b842bbdd4f7cb48b54626924cfdd5/gdx-box2d-1.6.4.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="eb089b58828b842bbdd4f7cb48b54626924cfdd5">
+        <dex dex="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/pre-dexed/prod/release/gdx-box2d-1.6.4_5fe156ac21dfe10d8769564058a9bc5ea5fa3d28.jar" />
+    </item>
+    <item
+        jar="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/pre-dexed/prod/release/com.google.android.gms-play-services-ads-9.0.0_970e54ac12ced2c5c7f0590504eb3d1ca902d00d.jar" />
+    </item>
+    <item
+        jar="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/pre-dexed/prod/release/com.android.support-support-v4-23.0.0_df7cee3332e1fe685c31164a7d56abbadae34428.jar" />
+    </item>
+    <item
+        jar="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/pre-dexed/prod/release/com.google.android.gms-play-services-auth-base-9.0.0_aceaec732bcf3609fb1f260d9ffdc5534c7a394b.jar" />
+    </item>
+    <item
+        jar="/Users/percival/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.6.4/13ed9a042554afce8c8b38c53e9b6d6d9c10600e/gdx-1.6.4.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="13ed9a042554afce8c8b38c53e9b6d6d9c10600e">
+        <dex dex="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/pre-dexed/prod/release/gdx-1.6.4_5ad47304972ce895c8f3d1161276df17a1d74f2c.jar" />
+    </item>
+    <item
+        jar="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
+        <dex dex="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/pre-dexed/prod/release/com.google.android.gms-play-services-games-9.0.0_f967b8b95842dc96eb8a6dd1da2d9cfeada39d22.jar" />
+    </item>
+    <item
+        jar="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/pre-dexed/prod/release/com.google.firebase-firebase-common-9.0.0_62f553d5c8db7b620230af28556a6bed1eeb73ab.jar" />
+    </item>
+    <item
+        jar="/Users/percival/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/pre-dexed/prod/release/support-annotations-23.0.0_1dd3b8f81fb062f66221cf4fb2d861c20542591d.jar" />
+    </item>
+    <item
+        jar="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/pre-dexed/prod/release/com.google.android.gms-play-services-basement-9.0.0_2c8b55cfcb462c315151c1e60642cfc5913b07ef.jar" />
+    </item>
+    <item
+        jar="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
+        <dex dex="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/pre-dexed/prod/release/com.google.android.gms-play-services-plus-9.0.0_a51d56ac948ef2729c07944d782708bf46669787.jar" />
+    </item>
+    <item
+        jar="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/pre-dexed/prod/release/com.google.android.gms-play-services-tasks-9.0.0_6df3fd716d0557be1b391d77a0e23e00a5a9e3f6.jar" />
+    </item>
+    <item
+        jar="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/pre-dexed/prod/release/com.google.android.gms-play-services-ads-lite-9.0.0_1357a2a123680d77ee61efed4b98ebe57b2066f7.jar" />
+    </item>
+    <item
+        jar="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
+        <dex dex="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/pre-dexed/prod/release/com.google.android.gms-play-services-analytics-9.0.0_bb8cb14eb0c1222da6f706bf91132eb8cd8529b4.jar" />
+    </item>
+    <item
+        jar="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/pre-dexed/prod/release/com.google.android.gms-play-services-base-9.0.0_fdb9083d59a40c224dc14653f1842f9be319670a.jar" />
+    </item>
+    <item
+        jar="/Users/percival/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.6.4/d681be06ea6873f2056bbcbe091367bd9f7c23f2/gdx-backend-android-1.6.4.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d681be06ea6873f2056bbcbe091367bd9f7c23f2">
+        <dex dex="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/pre-dexed/prod/release/gdx-backend-android-1.6.4_ac2b9640b3cf21048690e68a86dec31e130521fe.jar" />
+    </item>
+    <item
+        jar="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="/Users/percival/Downloads/360 2016-2/game - Android Studio/android/build/intermediates/pre-dexed/prod/release/com.google.android.gms-play-services-drive-9.0.0_931ee4e4ca3466c6a26ea5fd1b12753bd24b4762.jar" />
+    </item>
+
+</items>
